@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
     float nota1, nota2, media;
-    /*float=números reais*/
+    /*float=nÃºmeros reais*/
     printf("digite nota1: ");
     scanf("%f",&nota1);
     printf("digite nota2: ");
