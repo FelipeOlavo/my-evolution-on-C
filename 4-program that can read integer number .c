@@ -1,4 +1,4 @@
-/*leitura de um número inteiro*/
+/*leitura de um nÃºmero inteiro*/
 #include<stdio.h>
 int main(){
 int numero_inteiro;
