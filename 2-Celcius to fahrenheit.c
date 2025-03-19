@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
 float fahrenheit,celcius;
-printf("digite o valor em celcius que ser· convertido em fahrenheit: ");
+printf("digite o valor em celcius que ser√° convertido em fahrenheit: ");
 scanf("%f",&celcius);
 fahrenheit = (celcius *1.8)+32;
 printf("fahrenheit %f", fahrenheit);
