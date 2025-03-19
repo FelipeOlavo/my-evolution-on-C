@@ -1,4 +1,4 @@
-/*programa que lê um número real*/
+/*programa que lÃª um nÃºmero real*/
 #include<stdio.h>
 int main(){
 float numero_real;
